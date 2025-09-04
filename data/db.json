@@ -1,0 +1,106 @@
+{
+  "links": {
+    "abcd1": {
+      "shortcode": "abcd1",
+      "originalUrl": "https://example.com/longpage",
+      "createdAt": "2025-09-04T05:23:01.019Z",
+      "expiresAt": "2025-09-04T05:53:01.019Z",
+      "shortLink": "http://localhost:4000/abcd1",
+      "clicks": [
+        {
+          "timestamp": "2025-09-04T05:24:03.721Z",
+          "referrer": null,
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+          "ip": "::1",
+          "country": null,
+          "region": null,
+          "city": null
+        },
+        {
+          "timestamp": "2025-09-04T05:25:33.650Z",
+          "referrer": null,
+          "userAgent": "PostmanRuntime/7.45.0",
+          "ip": "::1",
+          "country": null,
+          "region": null,
+          "city": null
+        }
+      ],
+      "totalClicks": 2
+    },
+    "google": {
+      "shortcode": "google",
+      "originalUrl": "https://www.google.com",
+      "createdAt": "2025-09-04T05:41:57.238Z",
+      "expiresAt": "2025-09-04T06:11:57.238Z",
+      "shortLink": "http://localhost:4000/google",
+      "clicks": [
+        {
+          "timestamp": "2025-09-04T05:42:13.143Z",
+          "referrer": null,
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+          "ip": "::1",
+          "country": null,
+          "region": null,
+          "city": null
+        }
+      ],
+      "totalClicks": 1
+    },
+    "youtube": {
+      "shortcode": "youtube",
+      "originalUrl": "https://www.youtube.com",
+      "createdAt": "2025-09-04T06:01:55.062Z",
+      "expiresAt": "2025-09-04T06:31:55.062Z",
+      "shortLink": "http://localhost:4000/youtube",
+      "clicks": [
+        {
+          "timestamp": "2025-09-04T06:01:57.287Z",
+          "referrer": null,
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+          "ip": "::1",
+          "country": null,
+          "region": null,
+          "city": null
+        }
+      ],
+      "totalClicks": 1
+    },
+    "wafgfh": {
+      "shortcode": "wafgfh",
+      "originalUrl": "http://www.youtube.com",
+      "createdAt": "2025-09-04T06:19:22.475Z",
+      "expiresAt": "2025-09-04T06:49:22.475Z",
+      "shortLink": "http://localhost:4000/wafgfh",
+      "clicks": [],
+      "totalClicks": 0
+    },
+    "e7e1es": {
+      "shortcode": "e7e1es",
+      "originalUrl": "http://www.youtube.com",
+      "createdAt": "2025-09-04T06:19:34.046Z",
+      "expiresAt": "2025-09-04T06:49:34.046Z",
+      "shortLink": "http://localhost:4000/e7e1es",
+      "clicks": [],
+      "totalClicks": 0
+    },
+    "8jGJI5": {
+      "shortcode": "8jGJI5",
+      "originalUrl": "http://www.youtube.com",
+      "createdAt": "2025-09-04T06:19:35.972Z",
+      "expiresAt": "2025-09-04T06:49:35.972Z",
+      "shortLink": "http://localhost:4000/8jGJI5",
+      "clicks": [],
+      "totalClicks": 0
+    },
+    "svvtF9": {
+      "shortcode": "svvtF9",
+      "originalUrl": "http://www.youtube.com",
+      "createdAt": "2025-09-04T06:19:48.831Z",
+      "expiresAt": "2025-09-04T06:49:48.831Z",
+      "shortLink": "http://localhost:4000/svvtF9",
+      "clicks": [],
+      "totalClicks": 0
+    }
+  }
+}
